@@ -36,3 +36,14 @@ aims to help visually challenged people for recognizing people in front to give 
      
  ## Code Workflow
 <img src="https://github.com/Juju26/smart-goggles/blob/smart-goggles/documentation/code%20work%20flow.jpeg" alt="Image went missing" height="550px" width="750px" align="center">
+
+
+## Output 
+    Check youtube for the output of this project 
+    
+## Future plan 
+     - Design a goggle that holds the camera which is connected to the controller. 
+     - Improving Face recognition accuracy  
+     - Usage of Raspberry pi for carrying out the face recognition. 
+     - Design of a battery support system for the raspberry pi and facilitating headphones facility for audio output. 
+     - Optimsing process capable of run by Raspberry Pi
