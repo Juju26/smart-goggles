@@ -39,7 +39,9 @@ aims to help visually challenged people for recognizing people in front to give 
 
 
 ## Output 
-    Check youtube for the output of this project **https://www.youtube.com/watch?v=IgQcCB_AU5o**
+   Check youtube for the output of this project 
+               
+	** https://www.youtube.com/watch?v=IgQcCB_AU5o **
     
 ## Future plan 
      - Design a goggle that holds the camera which is connected to the controller. 
