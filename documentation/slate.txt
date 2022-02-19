@@ -1,0 +1,15 @@
+This is the display code folder 
+
+
+do your testing with other folder under smart goggles..Both may look similar
+
+last git commit on 9/9/21 8.17AM (no major changes done)
+
+13/9/21: commit and push'd
+    no face found throwable added
+    below accuracies now result in unknown not a low probability person name
+    add person will now run automatically if unknown using runpy
+
+        fixes needed:
+        audio module is not working
+        listen from microphone needs a fix, wit.ai should be looked and has to be implemented

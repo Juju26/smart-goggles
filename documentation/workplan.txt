@@ -1,0 +1,20 @@
+
+
+till now:
+  software-> face recognition on a single person face
+             audio output,name adding feature through voice 
+
+  hardware->
+              
+             pi cam-->raspbery pi-->image recognition-->output through audio 
+
+
+             python triggers using buttons 
+             camera wired 
+             mic and speakers  - wires
+
+
+            3 buttons 
+                1-> training .py invoke
+                2-> recognize .py 
+                3 -> pi on/off
