@@ -10,12 +10,12 @@ aims to help visually challenged people for recognizing people in front to give 
 ## Modules 
 -	FACE DETECTION AND RECOGNITION :
 	
-   Face Detection : 
+      Face Detection : 
       The face detection is generally considered as finding the faces (location and size) in an image and probably extract them to be used by the
  	face detection algorithm. 
   
-   Face Recognition: 
-     The face recognition algorithm is used in finding features that are uniquely described in the image. The facial image is already 
+      Face Recognition: 
+       The face recognition algorithm is used in finding features that are uniquely described in the image. The facial image is already 
       extracted, cropped, resized, and usually converted in the grayscale.(Pytorch)
 	 
        MODULES -  Imutils , Sklearn-encoder ,  SVC, open-cv
