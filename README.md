@@ -47,3 +47,7 @@ aims to help visually challenged people for recognizing people in front to give 
      - Usage of Raspberry pi for carrying out the face recognition. 
      - Design of a battery support system for the raspberry pi and facilitating headphones facility for audio output. 
      - Optimsing process capable of run by Raspberry Pi
+
+## Contributions 
+   Improvements,comments,contributions are most welcomed
+   
