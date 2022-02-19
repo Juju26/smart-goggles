@@ -18,7 +18,7 @@ aims to help visually challenged people for recognizing people in front to give 
      The face recognition algorithm is used in finding features that are uniquely described in the image. The facial image is already 
       extracted, cropped, resized, and usually converted in the grayscale.(Pytorch)
 	 
-     MODULES -  Imutils , Sklearn-encoder ,  SVC, open-cv
+       MODULES -  Imutils , Sklearn-encoder ,  SVC, open-cv
 
 
 - TEXT TO SPEECH RECOGNITION :
