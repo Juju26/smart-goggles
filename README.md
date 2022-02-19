@@ -33,3 +33,6 @@ aims to help visually challenged people for recognizing people in front to give 
 	These modules support for the image processing like converting the input into several frames and these frame processing with the already trained images in the dataset and recognition of the image with the database.
 
      MODULES - numpy , pickle , OS
+     
+ ## Code Workflow
+<img src="" alt="Image went missing">
