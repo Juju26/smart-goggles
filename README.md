@@ -35,4 +35,4 @@ aims to help visually challenged people for recognizing people in front to give 
      MODULES - numpy , pickle , OS
      
  ## Code Workflow
-<img src="https://github.com/Juju26/smart-goggles/blob/smart-goggles/documentation/code%20work%20flow.jpeg" alt="Image went missing" height="500px" width="700px">
+<img src="https://github.com/Juju26/smart-goggles/blob/smart-goggles/documentation/code%20work%20flow.jpeg" alt="Image went missing" height="550px" width="750px" align="center">
