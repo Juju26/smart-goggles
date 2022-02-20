@@ -50,6 +50,14 @@ aims to help visually challenged people for recognizing people in front to give 
      - Design of a battery support system for the raspberry pi and facilitating headphones facility for audio output. 
      - Optimsing process capable of run by Raspberry Pi
 
+## Test 
+   Tested on windows os 10,11 with python v3.9+
+## Requirements 
+   - os: windows 10
+   - python installed
+   - for modules use 
+             
+	     pip install -r https://github.com/Juju26/smart-goggles/blob/smart-goggles/requirements.txt
 ## Contributions 
    Improvements,comments,contributions are most welcomed
    
