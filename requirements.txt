@@ -1,0 +1,7 @@
+gTTS==2.2.3
+imutils==0.5.4
+numpy==1.21.0
+opencv_python_headless==4.5.3.56
+pyttsx3==2.90
+scikit_learn==1.0.2
+SpeechRecognition==3.8.1

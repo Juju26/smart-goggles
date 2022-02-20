@@ -38,6 +38,7 @@ def savecmd():
     dir=str(person_name)  #name for a directory with user name
     current_directory=os.getcwd()
     #pare="C:/Users/USER/Desktop/juju/smrt goggles/codes/using web cam/database/"
+    
     if dir!='quit' or dir!='stop':
         pare=current_directory+'/database'
         path=os.path.join(pare,dir)
